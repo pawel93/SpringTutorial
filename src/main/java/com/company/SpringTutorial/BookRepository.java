@@ -1,4 +1,5 @@
-package com.example.BootLesson;
+package com.company.SpringTutorial;
+
 
 import org.springframework.data.repository.CrudRepository;
 

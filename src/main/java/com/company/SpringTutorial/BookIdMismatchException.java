@@ -1,4 +1,5 @@
-package com.example.BootLesson;
+package com.company.SpringTutorial;
+
 
 public class BookIdMismatchException extends RuntimeException {
 

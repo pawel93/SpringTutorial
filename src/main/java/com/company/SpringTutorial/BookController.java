@@ -1,4 +1,4 @@
-package com.example.BootLesson;
+package com.company.SpringTutorial;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
